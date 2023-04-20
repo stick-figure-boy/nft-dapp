@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "streetsidesoftware.code-spell-checker",
+    "EditorConfig.EditorConfig",
+    "eamodio.gitlens",
+    "davidhouchin.whitespace-plus",
+    "esbenp.prettier-vscode",
+    "esbenp.prettier-vscode",
+    "RemixProject.ethereum-remix",
+    "nomicfoundation.hardhat-solidity",
+    "hbenl.vscode-mocha-test-adapter"
+  ]
+}
